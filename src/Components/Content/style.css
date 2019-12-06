@@ -1,0 +1,39 @@
+*{
+    font-family: sans-serif;
+
+}
+.text-area{
+    width: 97% !important;
+    height: 170px;
+    border: 1px solid #d4d4d4;
+    border-radius: 5px;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+.text-area:focus{
+    border: solid 1px #40a9ff;
+}
+.login-form .name{
+    margin-top: 10px;
+}
+.login-form .email{
+    margin-left: 1%;
+}
+.btn-continer{
+    width: 100%;
+    text-align: center;
+}
+.login-form-button{
+    width: 270px;
+    height: 40px;
+    border: none;
+    background:  #333399;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 16px;
+}
+.login-form-button:hover{
+    transform: scale(1.03);
+    opacity: 1 !important;
+    background: #333399;
+}

@@ -1,0 +1,103 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "image": "../.././src/images/header3.jpeg",
+            "title": "Marcedes Benz Featuers",
+            "body": "Exclusive reports and current films: experience a broad range of topics from the fascinating world of Mercedes-Benz. To find out about offers in your location, please go to the local Mercedes-Benz website."
+        },
+        {
+            "id" : 2,
+            "image": "../.././src/images/header.jpg",
+            "title": "Marcedes Benz Featuers",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3,
+            "image": "../.././src/images/featur4.png",
+            "title": "Marcedes Benz Featuers",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id" : 1,
+            "icon_name": "fa fa-chain fa-2x",
+            "title": "Marcedes Benz",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 2,
+            "icon_name": "fa fa-bolt fa-2x",
+            "title": "Marcedes Maybach",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3,
+            "icon_name": "fa fa-tachometer fa-2x",
+            "title": "Marcedes AMG",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 4,
+            "icon_name": "fa fa-tachometer fa-2x",
+            "title": "Marcedes Maybach S 650",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 5,
+            "icon_name": "fa fa-tachometer fa-2x",
+            "title": "Marcedes Aglow",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 6,
+            "icon_name": "fa fa-tachometer fa-2x",
+            "title": "Marcedes GLE",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }    
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest"
+        }
+    ] ,
+    "Profile" : [
+        {
+            "id" : 1, 
+            "tittle" : "Java", 
+            "presint" : "90%"
+        },
+        {
+            "id" : 2, 
+            "tittle" : "CSS", 
+            "presint" : "95%"
+        },
+        {
+            "id" : 3, 
+            "tittle" : "Html", 
+            "presint" : "70%"
+        },
+        {
+            "id" : 3, 
+            "tittle" : "React.js", 
+            "presint" : "60%"
+        }
+    ]
+}
