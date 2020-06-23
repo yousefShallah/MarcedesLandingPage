@@ -28,15 +28,19 @@ class Featured extends React.Component {
       <div>
         <Row className="desc-body-continer">
           <Col span={12} className="desc-body">
-            <h4>Marcedes Benz Featuers</h4>
-            <p>Exclusive reports and current films: experience a broad range of topics from the fascinating world of Mercedes-Benz. To find out about offers in your location, please go to the local Mercedes-Benz website.</p>
-            <Button type="primary" className="login-form-button">view our Projects</Button>
+              <h4>Marcedes Benz Featuers</h4>
+              <p>Exclusive reports and current films: experience a broad range of topics from the fascinating world of Mercedes-Benz. To find out about offers in your location, please go to the local Mercedes-Benz website.</p>
+              <Button type="primary" className="login-form-button">view our Projects</Button>
           </Col>
-          <Col span={12} className="img-body1">
+          <Col span={12}>
+          <div className="img-body1">
+          </div>
           </Col>
         </Row>
         <Row className="desc-body-continer">
-        <Col span={12} className="img-body2">
+        <Col span={12}>
+          <div className="img-body2">
+          </div>
           </Col>
           <Col span={12} className="desc-body">
             <h4>Marcedes Benz Featuers</h4>
@@ -49,7 +53,10 @@ class Featured extends React.Component {
             <h4>Marcedes Benz Featuers</h4>
             <p>Exclusive reports and current films: experience a broad range of topics from the fascinating world of Mercedes-Benz. To find out about offers in your location, please go to the local Mercedes-Benz website.</p>
             <Button type="primary" className="login-form-button"> view our Projects</Button>          </Col>
-          <Col span={12} className="img-body3">
+          <Col span={12}>
+            <div className="img-body3">
+
+            </div>
           </Col>
         </Row> 
       </div>
